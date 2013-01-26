@@ -87,7 +87,7 @@ $topic = mysql_fetch_assoc($result);
     <body id="body">
         <div>
             <header>
-                <h1>JavaScript</h1>
+                <h1>JavaScript_</h1>
             </header>
             <div id="toolbar">
                 <input type="button" value="black" onclick="document.getElementById('body').className='black'" />
